@@ -2,7 +2,7 @@
   "name": "Mission Planner",
   "short_name": "Mission",
   "description": "목회자를 위한 Franklin Planner + Timebox",
-  "start_url": "./MP2.html",
+  "start_url": "./MP3.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#534AB7",
